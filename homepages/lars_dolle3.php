@@ -23,6 +23,10 @@
           <tr>
             <th scope="row">1</th>
             <td>322143</td>
+            <td>lars</td>
+            <td>van</td>
+            <td>doremalen</td>
+            <td>applicatie-beheer en media ontwikkelaar</td>
           </tr>
         </tbody>
       </table>
