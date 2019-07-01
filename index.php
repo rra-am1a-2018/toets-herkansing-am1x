@@ -31,6 +31,14 @@
                     <td><a href="./homepages/arjan_rra-am1c-2018.php">mijn homepage</a></td>
                     <td>10+</td>
                 </tr>
+                <tr>
+                  <th scope="row">322143</th>
+                  <td>lars</td>
+                  <td>dolle3</td>
+                  <td><img src="./img/ik.jpg" width="40px" height="40px" alt="lars"></td>
+                  <td><a href="./homepages/lars_dolle3.php" role="button" class="btn btn-primary">mijn homepages</a></td>
+                  <td>?</td>
+                </tr>
             </tbody>
         </table>
       </div>
