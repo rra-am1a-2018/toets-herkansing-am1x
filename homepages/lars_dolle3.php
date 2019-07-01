@@ -7,7 +7,18 @@
   </head>
   <body>
     <div class="containter-fluid">
-
+      <table>
+        <thead>
+          <tr>
+            <th>leerlingnummer</th>
+            <th>voornaam</th>
+            <th>tussenvoegsel</th>
+            <th>achternaam</th>
+            <th>afstudeerrichting</th>
+            <th>avatar</th>
+          </tr>
+        </thead>
+      </table>
     </div>
   </body>
 </html>
