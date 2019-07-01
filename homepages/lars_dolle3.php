@@ -27,7 +27,6 @@
             <td>van</td>
             <td>doremalen</td>
             <td>applicatie-beheer en media ontwikkelaar</td>
-            <td><img src="../img/ik.jpg" height="40px" width="40px"></td>
           </tr>
         </tbody>
       </table>
