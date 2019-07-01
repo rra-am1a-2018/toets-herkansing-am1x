@@ -7,17 +7,24 @@
   </head>
   <body>
     <div class="containter-fluid">
-      <table>
+      <table class="table">
         <thead>
           <tr>
-            <th>leerlingnummer</th>
-            <th>voornaam</th>
-            <th>tussenvoegsel</th>
-            <th>achternaam</th>
-            <th>afstudeerrichting</th>
-            <th>avatar</th>
+            <th scope="col">#</th>
+            <th scope="col">leerlingnummer</th>
+            <th scope="col">voornaam</th>
+            <th scope="col">tussenvoegsel</th>
+            <th scope="col">achternaam</th>
+            <th scope="col">afstudeerrichting</th>
+            <th scope="col">avatar</th>
           </tr>
         </thead>
+        <tbody>
+          <tr>
+            <th scope="row">1</th>
+            <td>322143</td>
+          </tr>
+        </tbody>
       </table>
     </div>
   </body>
