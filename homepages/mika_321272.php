@@ -35,7 +35,7 @@ table, th, td {
     <tr>
       <th>Leerlingnummer</th>
       <th>Voornaam</th>
-      <th></th>
+      <th>Tussenvoegsel</th>
       <th></th>
       <th></th>
       <th></th>
