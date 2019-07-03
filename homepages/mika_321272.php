@@ -38,7 +38,7 @@ table, th, td {
       <th>Tussenvoegsel</th>
       <th>Achternaam</th>
       <th>Afstudeerrichting</th>
-      <th></th>
+      <th>Avatar</th>
     </tr>
     <tr>
       <td></td>
