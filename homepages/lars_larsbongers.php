@@ -42,11 +42,6 @@
                     <td></td>
                     <td>Bongers</td>
                     <td>Applicatie en mediaontwikkeling</td>
-                    <td><img src="../img/defqon1.jpg" height="40px" width="40px"></td>
                 </tr>
-            </tbody>
-      </table>
-      <a href="../index.php" class="btn btn-primary" role="button">Terug naar de homepage</a>
-    </div>
   </body>
 </html>
