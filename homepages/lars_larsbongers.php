@@ -42,6 +42,7 @@
                     <td></td>
                     <td>Bongers</td>
                     <td>Applicatie en mediaontwikkeling</td>
+                    <td><img src="../img/defqon1.jpg" height="40px" width="40px"></td>
                 </tr>
   </body>
 </html>
