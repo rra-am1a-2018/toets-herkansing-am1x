@@ -33,7 +33,7 @@ table, th, td {
 <div class="container-fluid">
   <table>
     <tr>
-      <th></th>
+      <th>Leerlingnummer</th>
       <th></th>
       <th></th>
       <th></th>
