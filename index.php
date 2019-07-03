@@ -43,7 +43,7 @@
                     <th scope="row">19686</th>
                     <td>Mika</td>
                     <td>321272</td>
-                    <td><img src="./img/broc.jpg" width="40px" height="40px" /></td>
+                    <td><img src="./img/MieuwYeet" width="40px" height="40px" /></td>
                     <td><a href="./homepages/mika_321272.php">mijn homepage</a></td>
                     <td>7</td>
                 </tr>
