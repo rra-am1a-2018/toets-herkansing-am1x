@@ -49,7 +49,7 @@
                 </tr>
                 <tr>
                     <th scope="row">324752</th>
-                    <td>Lars</td>
+                    <td>Arjan</td>
                     <td>LarsBongers</td>
                     <td><img src="./img/defqon1.jpg" width="40px" height="40px" /></td>
                     <td><a href="./homepages/lars_larsbongers.php">Mijn homepage</a></td>
