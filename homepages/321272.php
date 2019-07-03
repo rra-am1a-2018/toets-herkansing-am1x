@@ -15,7 +15,19 @@
 <body>
     <html>
 <head>
-
+<style>
+table, th, td {
+  border: 2px solid lightgrey;
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: auto;
+  text-align: center;
+}
+.center {
+    text-align: center;
+}
+</style>
 </head>
 <body>
 <div class="container-fluid">
