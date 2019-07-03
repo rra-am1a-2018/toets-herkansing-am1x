@@ -31,6 +31,13 @@
                     <td><a href="./homepages/arjan_rra-am1c-2018.php">mijn homepage</a></td>
                     <td>10+</td>
                 </tr>
+                 <tr>
+                    <th scope="row">321592</th>
+                    <td>Nuha</td>
+                    <td>Tims moeder</td>
+                    <td><img src="./img/nuha.gif" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/toets-Nuha-am1b.php">mijn homepage</a></td>
+                    <td>7,5</td>
                 <tr>
                   <th scope="row">322143</th>
                   <td>lars</td>
