@@ -44,7 +44,7 @@
                     <td>Mika</td>
                     <td>321272</td>
                     <td><img src="./img/broc.jpg" width="40px" height="40px" /></td>
-                    <td><a href="./homepages/arjan_rra-am1c-2018.php">mijn homepage</a></td>
+                    <td><a href="./homepages/321272.php">mijn homepage</a></td>
                     <td>7</td>
                 </tr>
             </tbody>
