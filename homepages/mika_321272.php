@@ -37,7 +37,7 @@ table, th, td {
       <th>Voornaam</th>
       <th>Tussenvoegsel</th>
       <th>Achternaam</th>
-      <th></th>
+      <th>Afstudeerrichting</th>
       <th></th>
     </tr>
     <tr>
