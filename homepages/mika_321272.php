@@ -34,7 +34,7 @@ table, th, td {
   <table>
     <tr>
       <th>Leerlingnummer</th>
-      <th></th>
+      <th>Voornaam</th>
       <th></th>
       <th></th>
       <th></th>
