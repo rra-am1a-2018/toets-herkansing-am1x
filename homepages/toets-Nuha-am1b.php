@@ -23,6 +23,22 @@
           <meta http-equiv="X-UA-Compatible" content="ie=edge">
           <title>Document</title>
       </head>
+            <style>
+            }
+                .center{
+                    text-align: center;
+                    margin-top: 50px;
+                }
+                body{
+                    background-image: url("https://media1.giphy.com/media/2tMuOCL17ObOPNBdfV/source.gif");
+                    background-repeat: no-repeat ;
+                    background-size: cover ;
+                    background-attachment: fixed;
+                }
+                .position{
+                 margin-top: 150px;
+                }
+            </style>
  <body>
           <div class="position">
          <div class="container-fluid">
