@@ -1,4 +1,4 @@
-<p>laten we gaan tijdrijzen<p>
+<br>
     
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
@@ -59,7 +59,7 @@
                 <td> </td>
                 <td>Camara</td>
                 <td>aplication and media developer</td>
-                <td><img src="../img/nuha.gif" alt=""></td>
+                <td><img src="../img/hobby.gif" alt=""></td>
               </tr>
             </tbody>
           </table>
@@ -69,9 +69,9 @@
     <div class="container">
     <nav class="nav nav-pills flex-column flex-sm-row">
     <a class="flex-sm-fill text-sm-center nav-link active" href="../index.php">home</a>
-    <a class="flex-sm-fill text-sm-center nav-link active" href="./mika_321272.php">bjorn</a>
-    <a class="flex-sm-fill text-sm-center nav-link active" href="./arjan_rra-am1c-2018.php">thomas</a>
-    <a class="flex-sm-fill text-sm-center nav-link active" href="./lars_larsbongers.php	">mika</a>
+    <a class="flex-sm-fill text-sm-center nav-link active" href="./mika_321272.php">mika</a>
+    <a class="flex-sm-fill text-sm-center nav-link active" href="./arjan_rra-am1c-2018.php">arjan</a>
+    <a class="flex-sm-fill text-sm-center nav-link active" href="./lars_larsbongers.php	">lars</a>
     </div>
     </nav>
   </div>  
