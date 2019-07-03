@@ -41,6 +41,7 @@
                     <td>Lars</td>
                     <td></td>
                     <td>Bongers</td>
+                    <td>Applicatie en mediaontwikkeling</td>
                 </tr>
   </body>
 </html>
