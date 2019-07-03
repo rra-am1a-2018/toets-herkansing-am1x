@@ -10,7 +10,7 @@
     </head>
     <body>
       <div class="container-fluid">
-        <h1>Toets - AM1C</h1>
+        <h1>Toets - AM1B</h1>
         <table class="table table-hover">
             <thead>
                 <tr>
