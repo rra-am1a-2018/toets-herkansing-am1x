@@ -9,6 +9,7 @@
         <title>Proeftoets - AM1A</title>
     </head>
     <body>
+        <p>Recover file</p>
       <div class="container-fluid">
         <h1>Toets - AM1C</h1>
         <table class="table table-hover">
