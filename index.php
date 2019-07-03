@@ -47,6 +47,14 @@
                     <td><a href="./homepages/mika_321272.php">mijn homepage</a></td>
                     <td>7</td>
                 </tr>
+                <tr>
+                    <th scope="row">324752</th>
+                    <td>Lars</td>
+                    <td>LarsBongers</td>
+                    <td><img src="./img/defqon1.jpg" width="40px" height="40px" /></td>
+                    <td><a href="./homepages/lars_larsbongers.php">Mijn homepage</a></td>
+                    <td>?</td>
+                </tr>
             </tbody>
         </table>
       </div>
